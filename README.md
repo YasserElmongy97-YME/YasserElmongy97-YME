@@ -14,7 +14,7 @@ I am a Computer Science student at EELU, building my foundations in software dev
 
 ## Projects
 
-I am preparing my first projects. I will add them here as I build and document them.
+This section will showcase projects as I build and document them.
 
 ## Find me on GitHub
 
