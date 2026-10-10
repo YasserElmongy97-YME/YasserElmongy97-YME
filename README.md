@@ -19,3 +19,5 @@ This section will showcase projects as I build and document them.
 ## Find me on GitHub
 
 - [@YasserElmongy97-YME](https://github.com/YasserElmongy97-YME)
+
+- LinkedIn: [Yasser Elmongy](https://www.linkedin.com/in/yasserelmongy)
